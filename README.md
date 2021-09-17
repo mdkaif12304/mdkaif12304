@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mdkaif12304
-- 👀 I’m interested in coding,AI,machine learning
-- 🌱 I’m currently learning new algorithms ...
+- 👋 Hi, I’m Mohammad Kaif
+- 👀 I’m interested in learning AI and new technologies ...
+- 🌱 I’m currently learning new algorithms everyday ...
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me : mail @mdkaif12304@gmail.com
+- 📫 How to reach me : @mdkaif12304@gmail.com
 
 <!---
 mdkaif12304/mdkaif12304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
